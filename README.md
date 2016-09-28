@@ -14,6 +14,7 @@
  - [CakePHP Brasil](https://www.facebook.com/groups/cakebrasil/)
  - [Laravel Brasil](https://www.facebook.com/groups/laravelbrasil/)
  - [AngularJs Brasil](https://www.facebook.com/groups/angularjsbrasil/)
+ - [PHP SC](https://www.facebook.com/groups/430320340321421/)
 
 ## Slack
 
@@ -21,6 +22,7 @@
  - [Laravel Brasil](http://slack.laravel.com.br/)
  - [PHP SP - convite no botão do site](http://phpsp.org.br/)
  - [WebDevBr - convite no botão do site](https://www.webdevbr.com.br) - Embora seja um site de venda de cursos, minha intenção é realmente promover uma interação entre as comunidades, por isso estou postando aqui, se ofender alguém, por favor, me desculpe e abra uma issue me xingando (Erik) que eu removo.
+ - [PHP SC - convite no botão do site](http://www.phpsc.com.br/)
 
 
 ## Como contribuir
