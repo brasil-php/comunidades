@@ -8,6 +8,12 @@
  - [Symfony Brasil](https://telegram.me/SymfonyBrasil)
  - [dockerbr](https://telegram.me/dockerbr)
  - [AngularJs Brasil](https://telegram.me/angularjsbrasil)
+ - [NodeBR](https://telegram.me/NodeBR)
+ - [Node.js Brasil](https://telegram.me/NodejsBR)
+ - [Codecasts SUPORTE](https://telegram.me/codecasters)
+ - [VueJS Brasil](https://telegram.me/vuejsbrasil)
+ - [JavaScript Brasil](https://telegram.me/javascriptbrasil)
+ - [dockerbr](https://telegram.me/dockerbr)
 
 ## Facebook
 
@@ -23,6 +29,9 @@
  - [PHP SP - convite no botão do site](http://phpsp.org.br/)
  - [WebDevBr - convite no botão do site](https://www.webdevbr.com.br)
  - [PHP SC - convite no botão do site](http://www.phpsc.com.br/)
+ - [NodeBR](https://slack.nodebr.org/)
+ - [Ionic Brazil](https://ionicbrazilslack.herokuapp.com/)
+ - [Ruby Talk](http://rubytalk.net/)
 
 
 ## Como contribuir
