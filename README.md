@@ -21,7 +21,7 @@
  - [CakePHP Brasil](http://slack.cakephpbrasil.com.br/)
  - [Laravel Brasil](http://slack.laravel.com.br/)
  - [PHP SP - convite no botão do site](http://phpsp.org.br/)
- - [WebDevBr - convite no botão do site](https://www.webdevbr.com.br) - Embora seja um site de venda de cursos, minha intenção é realmente promover uma interação entre as comunidades, por isso estou postando aqui, se ofender alguém, por favor, me desculpe e abra uma issue me xingando (Erik) que eu removo.
+ - [WebDevBr - convite no botão do site](https://www.webdevbr.com.br)
  - [PHP SC - convite no botão do site](http://www.phpsc.com.br/)
 
 
