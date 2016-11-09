@@ -32,6 +32,8 @@
  - [NodeBR](https://slack.nodebr.org/)
  - [Ionic Brazil](https://ionicbrazilslack.herokuapp.com/)
  - [Ruby Talk](http://rubytalk.net/)
+ - [ABC Dev](http://slackabcdev.herokuapp.com/)
+ - [Front-end Brasil](http://frontendbrasil-slack.herokuapp.com/)
 
 
 ## Como contribuir
