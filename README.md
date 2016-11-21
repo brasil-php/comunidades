@@ -14,6 +14,10 @@
  - [VueJS Brasil](https://telegram.me/vuejsbrasil)
  - [JavaScript Brasil](https://telegram.me/javascriptbrasil)
  - [dockerbr](https://telegram.me/dockerbr)
+ - [Vue.js Brasil](https://telegram.me/vuejsbrasil)
+ - [Laravel Brasil](https://telegram.me/laravelbr)
+ - [Elixir Brasil](https://telegram.me/elixirbr)
+ - [Codecasts](https://telegram.me/codecasters)
 
 ## Facebook
 
@@ -21,6 +25,7 @@
  - [Laravel Brasil](https://www.facebook.com/groups/laravelbrasil/)
  - [AngularJs Brasil](https://www.facebook.com/groups/angularjsbrasil/)
  - [PHP SC](https://www.facebook.com/groups/430320340321421/)
+ - [Vue.js Brasil](https://www.facebook.com/groups/vuejsbr/)
 
 ## Slack
 
