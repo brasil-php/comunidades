@@ -1,5 +1,8 @@
 # Curadoria de comunidades sobre programação desenvolvimento web e relacionados
 
+## GitHub
+
+ - [Centro de Treinamento](https://github.com/training-center) - Um projeto sem fins lucrativos com intenção de ajudar quem precisa aprender alguma tecnologia, tem dúvidas sobre carreira ou quer fazer bons amigos para criarem um projeto juntos!
 
 ## Telegram
 
