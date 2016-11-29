@@ -20,7 +20,6 @@
  - [Vue.js Brasil](https://telegram.me/vuejsbrasil)
  - [Laravel Brasil](https://telegram.me/laravelbr)
  - [Elixir Brasil](https://telegram.me/elixirbr)
- - [Codecasts](https://telegram.me/codecasters)
 
 ## Facebook
 
