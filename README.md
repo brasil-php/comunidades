@@ -7,6 +7,7 @@
 ## Telegram
 
  - [PHP Brasil](https://telegram.me/phpbrasil)
+ - [PHPBA](https://telegram.me/phpba)
  - [CakePHP Brasil](https://telegram.me/cakephpbr)
  - [Symfony Brasil](https://telegram.me/SymfonyBrasil)
  - [dockerbr](https://telegram.me/dockerbr)
@@ -27,6 +28,7 @@
  - [Laravel Brasil](https://www.facebook.com/groups/laravelbrasil/)
  - [AngularJs Brasil](https://www.facebook.com/groups/angularjsbrasil/)
  - [PHP SC](https://www.facebook.com/groups/430320340321421/)
+ - [PHPBA](https://www.facebook.com/PHPBA-1452159261670420)
  - [Vue.js Brasil](https://www.facebook.com/groups/vuejsbr/)
 
 ## Slack
