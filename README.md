@@ -10,7 +10,6 @@
  - [CakePHP Brasil](https://telegram.me/cakephpbr)
  - [Codecasts SUPORTE](https://telegram.me/codecasters)
  - [dockerbr](https://telegram.me/dockerbr)
- - [dockerbr](https://telegram.me/dockerbr)
  - [Elixir Brasil](https://telegram.me/elixirbr)
  - [JavaScript Brasil](https://telegram.me/javascriptbrasil)
  - [Laravel Brasil](https://telegram.me/laravelbr)
@@ -19,7 +18,6 @@
  - [PHP Brasil](https://telegram.me/phpbrasil)
  - [PHPBA](https://telegram.me/phpba)
  - [Symfony Brasil](https://telegram.me/SymfonyBrasil)
- - [VueJS Brasil](https://telegram.me/vuejsbrasil)
  - [Vue.js Brasil](https://telegram.me/vuejsbrasil)
 
 ## Facebook
