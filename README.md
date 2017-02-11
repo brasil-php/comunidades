@@ -17,6 +17,7 @@
  - [NodeBR](https://telegram.me/NodeBR)
  - [PHP Brasil](https://telegram.me/phpbrasil)
  - [PHPBA](https://telegram.me/phpba)
+ - [PHPMA](https://telegram.me/phpmaranhao)
  - [Symfony Brasil](https://telegram.me/SymfonyBrasil)
  - [Vue.js Brasil](https://telegram.me/vuejsbrasil)
 
