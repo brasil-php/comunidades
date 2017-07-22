@@ -22,6 +22,7 @@
  - [Sílex Brasil](https://telegram.me/SilexBrasil)
  - [Symfony Brasil](https://telegram.me/SymfonyBrasil)
  - [Vue.js Brasil](https://telegram.me/vuejsbrasil)
+ - [PHPZM](https://telegram.me/phpzm)
 
 ## Facebook
 
