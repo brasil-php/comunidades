@@ -21,6 +21,7 @@
  - [PHPMA](https://telegram.me/phpmaranhao)
  - [PHPZM](https://telegram.me/phpzm)
  - [PHPTestFestBrasil](https://t.me/PHPTestFestBrasil)
+ - [Programeiros](https://t.me/joinchat/CxaN0D-xLVriZgVzWBM2Fw)  
  - [Sílex Brasil](https://telegram.me/SilexBrasil)
  - [Symfony Brasil](https://telegram.me/SymfonyBrasil)
  - [Vue.js Brasil](https://telegram.me/vuejsbrasil)
