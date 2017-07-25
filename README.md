@@ -3,6 +3,7 @@
 ## GitHub
 
  - [Centro de Treinamento](https://github.com/training-center) - Um projeto sem fins lucrativos com intenção de ajudar quem precisa aprender alguma tecnologia, tem dúvidas sobre carreira ou quer fazer bons amigos para criarem um projeto juntos!
+ - [PHP com Rapadura](https://github.com/phpcomrapadura)
 
 ## Telegram
 
@@ -19,6 +20,7 @@
  - [NodeBR](https://telegram.me/NodeBR)
  - [PHP Brasil](https://telegram.me/phpbrasil)
  - [PHPBA](https://telegram.me/phpba)
+ - [PHP com Rapadura](https://t.me/phpcomrapadura)
  - [PHPMA](https://telegram.me/phpmaranhao)
  - [PHPZM](https://telegram.me/phpzm)
  - [PHPTestFestBrasil](https://t.me/PHPTestFestBrasil)
@@ -34,6 +36,7 @@
  - [Laravel Brasil](https://www.facebook.com/groups/laravelbrasil/)
  - [PHP SC](https://www.facebook.com/groups/430320340321421/)
  - [PHPBA](https://www.facebook.com/PHPBA-1452159261670420)
+ - [PHP com Rapadura](https://fb.com/groups/RapaduraDoPoder)
  - [Vue.js Brasil](https://www.facebook.com/groups/vuejsbr/)
 
 ## Slack
