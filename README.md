@@ -7,6 +7,7 @@
 ## Telegram
 
  - [AngularJs Brasil](https://telegram.me/angularjsbrasil)
+ - [API Builders Brasil](https://t.me/apiBuilders)
  - [CakePHP Brasil](https://telegram.me/cakephpbr)
  - [Codecasts SUPORTE](https://telegram.me/codecasters)
  - [dockerbr](https://telegram.me/dockerbr)
