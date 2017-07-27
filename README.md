@@ -23,6 +23,7 @@
  - [PHP com Rapadura](https://t.me/phpcomrapadura)
  - [PHPMA](https://telegram.me/phpmaranhao)
  - [PHPZM](https://telegram.me/phpzm)
+ - [PHPRio](https://t.me/phprio)
  - [PHPTestFestBrasil](https://t.me/PHPTestFestBrasil)
  - [Programeiros](https://t.me/joinchat/CxaN0D-xLVriZgVzWBM2Fw)  
  - [Sílex Brasil](https://telegram.me/SilexBrasil)
