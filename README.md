@@ -47,6 +47,7 @@
  - [Front-end Brasil](http://frontendbrasil-slack.herokuapp.com/)
  - [Ionic Brazil](https://ionicbrazilslack.herokuapp.com/)
  - [Laravel Brasil](http://slack.laravel.com.br/)
+ - [Linux Brasil](http://linux-brasil.slack.com)
  - [PHP SC - convite no botão do site](http://www.phpsc.com.br/)
  - [PHP SP - convite no botão do site](http://phpsp.org.br/)
  - [NodeBR](https://slack.nodebr.org/)
