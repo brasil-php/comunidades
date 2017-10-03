@@ -39,6 +39,7 @@
  - [PHPBA](https://www.facebook.com/PHPBA-1452159261670420)
  - [PHP com Rapadura](https://fb.com/groups/RapaduraDoPoder)
  - [Vue.js Brasil](https://www.facebook.com/groups/vuejsbr/)
+ - [PHP Jundiaí](https://www.facebook.com/groups/817896948383861/)
 
 ## Slack
 
